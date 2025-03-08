@@ -50,6 +50,3 @@ npm start
 
 All data is stored locally in your browser's localStorage. No data is sent to any server.
 
-## License
-
-This project is open source and available under the MIT License.
